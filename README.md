@@ -136,6 +136,7 @@ The following milestones define the construction and security testing roadmap fo
 - Install Windows 11 client machines
 - Install Kali Linux attacker machine
 - Configure the virtual network
+- Verify connectivity
 
 ### LEVEL02 - Active Directory
 - Configure DC01 as a Domain Controller
