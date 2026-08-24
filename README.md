@@ -113,33 +113,11 @@ The lab consists of a virtualized Windows-based corporate environment designed t
 The lab simulates a small corporate Active Directory environment using virtual machines hosted on a Kali Linux physical host.
 
 ```text
-                         KAPALALA CORPORATION
-                                  |
-                         VirtualBox Host
-                                  |
-                         Kali Linux Host
-                                  |
-                    +-------------+-------------+
-                    |                           |
-              Internal Network                 NAT
-                    |
-          +---------+---------+
-          |                   |
-     +----+----+         +----+----+
-     |   DC01  |         |  Kali VM |
-     | Windows |         | Attacker |
-     | Server  |         |          |
-     +----+----+         +----------+
-          |
-    kapalala.local
-          |
-     +----+---------+
-     |              |
- +---+---+      +---+---+
- | PC01  |      | PC02  |
- | Win11 |      | Win11 |
- +-------+      +-------+
-```
+
+<img width="735" height="836" alt="image" src="https://github.com/user-attachments/assets/b6faf89c-6698-4443-a467-858cf7842d75" />
+
+<img width="1024" height="558" alt="image" src="https://github.com/user-attachments/assets/dcaa34a4-0b22-4e45-a82a-057d9ea276bc" />
+
 
 ### Environment Roles
 
