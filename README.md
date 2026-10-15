@@ -34,6 +34,9 @@ The lab consists of a virtualized Windows-based corporate environment designed t
 
 <img width="735" height="836" alt="image" src="https://github.com/user-attachments/assets/b6faf89c-6698-4443-a467-858cf7842d75" /> 
 
+
+## Network Architecture
+
 ### For a lab with Windows Operating System as the Host Machine the Network Architecture will be as shown below
 
 
