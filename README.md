@@ -31,6 +31,7 @@ The lab consists of a virtualized Windows-based corporate environment designed t
 <img width="735" height="836" alt="image" src="https://github.com/user-attachments/assets/b6faf89c-6698-4443-a467-858cf7842d75" /> 
 
 
+<img width="919" height="1024" alt="image" src="https://github.com/user-attachments/assets/48cf3af4-d462-4cee-bb57-186e961ad92a" />
 
 <img width="919" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7dc16d8-2080-4ed3-9d8c-32be11c96dfd" />
 
