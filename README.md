@@ -23,21 +23,23 @@ A virtualized hands-on practical windows Server Active Directory , with centrali
 
 ## Lab Architecture
 
-### For a lab with Windows Operating System as the Host Machine the Lab Architecture will be as shown below
 
 The lab consists of a virtualized Windows-based corporate environment designed to simulate a small organization's Active Directory Infrastructure
 
-### For a lab with Kali Linux Operating System as the Host Machine the Lab Architecture will be as shown below
+### For a lab with Windows Operating System as the Host Machine the Lab Architecture will be as shown below
 
 <img width="1129" height="1162" alt="image" src="https://github.com/user-attachments/assets/dd0b0974-1821-43b6-910f-33b8ce87e418" />
 
-### For a lab with Windows Operating System as the Host Machine the Network Architecture will be as shown below
+### For a lab with Kali Linux Operating System as the Host Machine the Lab Architecture will be as shown below
 
 <img width="735" height="836" alt="image" src="https://github.com/user-attachments/assets/b6faf89c-6698-4443-a467-858cf7842d75" /> 
 
-### For a lab with Kali Linux Operating System as the Host Machine the Network Architecture will be as shown below
+### For a lab with Windows Operating System as the Host Machine the Network Architecture will be as shown below
+
 
 <img width="919" height="1024" alt="image" src="https://github.com/user-attachments/assets/48cf3af4-d462-4cee-bb57-186e961ad92a" />
+
+### For a lab with Kali Linux Operating System as the Host Machine the Network Architecture will be as shown below
 
 <img width="919" height="1024" alt="image" src="https://github.com/user-attachments/assets/d7dc16d8-2080-4ed3-9d8c-32be11c96dfd" />
 
