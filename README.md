@@ -25,6 +25,7 @@ A virtualized hands-on practical windows Server Active Directory , with centrali
 
 The lab consists of a virtualized Windows-based corporate environment designed to simulate a small organization's Active Directory Infrastructure
 
+<img width="1129" height="1162" alt="image" src="https://github.com/user-attachments/assets/dd0b0974-1821-43b6-910f-33b8ce87e418" />
 
 
 <img width="735" height="836" alt="image" src="https://github.com/user-attachments/assets/b6faf89c-6698-4443-a467-858cf7842d75" /> 
