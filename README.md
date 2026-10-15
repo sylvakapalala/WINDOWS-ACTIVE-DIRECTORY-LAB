@@ -56,7 +56,7 @@ The lab consists of a virtualized Windows-based corporate environment designed t
 
 ## Core Components
 
-- Kali Linux Physical Host
+- Windows 11 Physical Host / Kali Linux Physical Host
 - Oracle VirtualBox
 - Windows Server -  Domain Controller (DC01)
 - Windows 11 virtual machines(VMs) - Client computers (PC01 and PC02)
