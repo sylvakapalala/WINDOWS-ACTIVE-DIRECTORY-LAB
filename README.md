@@ -111,9 +111,9 @@ The lab uses VirtualBox networking to provide connectivity between the Domain Co
 
   
 ### Operating Systems
-- Windows Server 2022
+- Windows Server 2025
 - Windows 11
-- Kali Linux
+- Kali Linux 
 
   
 ### Identity and Access Management
@@ -145,7 +145,7 @@ The following milestones define the construction and security testing roadmap fo
 
 ### LEVEL01 - Foundation 
 - Set up virtualization environment
-- Install Windows Server 2022
+- Install Windows Server 2025
 - Install Windows 11 client machines
 - Install Kali Linux attacker machine
 - Configure the virtual network
@@ -199,11 +199,11 @@ The following milestones define the construction and security testing roadmap fo
 
 ## Active Directory Configuration 
 
-The Active Directory environment is built around a Windows Server 2022 Domain Controller named DC01. The Domain Controller provides a centralized authentication , authorization , DNS, and directory management for the kapalala.local domain.
+The Active Directory environment is built around a Windows Server 2025 Domain Controller named DC01. The Domain Controller provides a centralized authentication , authorization , DNS, and directory management for the kapalala.local domain.
 
 ### Domain Controller
 - Hostname: DC01
-- Operating System: Windows Server 2022
+- Operating System: Windows Server 2025
 - Role : Domain Controller
 - Domain : kapalala.local
 - Services : Active Directory Domain Services (AD DS) and DNS
@@ -235,7 +235,7 @@ The Windows 11 virtual machines will be joined to the kapalala.local domain
 
 The lab includes a dedicated Kali Linux virtual machne that acts as the attacker/adversary system during controlled cyber security attack simulations
 
-Hostname : KALI-ATTACKER
+Hostname : kali
 Operating System : Kali Linux
 Role : Attacker/Adversary virtual machine
 Domain Membership : Not joined to kapalala.local
